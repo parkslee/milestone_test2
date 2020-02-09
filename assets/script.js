@@ -1,0 +1,1 @@
+$('#address').load(url='https://raw.githubusercontent.com/parkslee/kml/master/ukdataset21.kml #name');
