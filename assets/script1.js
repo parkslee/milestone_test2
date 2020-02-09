@@ -24,7 +24,7 @@ function initMap() {
   infowindow.setContent(infowindowContent);
   //kml layer
   var studioLayer = new google.maps.KmlLayer({
-    url: 'https://raw.githubusercontent.com/parkslee/kml/master/ukdataset22.kml',
+    url: 'https://raw.githubusercontent.com/parkslee/milestone_test2/master/ukdataset22.kml',
     map: map,
     preserveViewport: true
     });
